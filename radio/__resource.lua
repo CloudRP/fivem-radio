@@ -6,6 +6,7 @@ supersede_radio "RADIO_03_HIPHOP_NEW" { url = "https://simulatorradio.stream/str
 supersede_radio "RADIO_12_REGGAE" { url = "https://aurora.shoutca.st/radio/8450/radio.ogg", volume = 0.5 }
 supersede_radio "RADIO_09_HIPHOP_OLD" { url = "https://oreo.truckstopradio.co.uk/radio/8000/radio.ogg", volume = 0.5 }
 supersede_radio "RADIO_06_COUNTRY" { url = "https://stream.reachradio.co.uk", volume = 0.5 }
+supersede_radio "RADIO_18_90S_ROCK" { url = "https://radio.weareharmony.net", volume = 0.5 }
 
 files {
 	"index.html"
